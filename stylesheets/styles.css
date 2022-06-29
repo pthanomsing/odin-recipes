@@ -21,11 +21,14 @@ ul {
     line-height: 200%;
     font-size: 40px;
     text-align: center;
-    list-style-type: none;
+    
 }
 
 ul.ingredients{
     font-size: 20px;
+    text-align: left;
+    display: inline-block;
+
 
 }
 a {
@@ -43,4 +46,8 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+  }
+
+  div.container {
+    text-align: center;
   }
