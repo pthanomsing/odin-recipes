@@ -17,6 +17,10 @@ ul {
     list-style-type: none;
 }
 
+ul.ingredients{
+    font-size: 20px;
+
+}
 a {
     color: white;
     
