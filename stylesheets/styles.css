@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family:  "Helvetica", sans-serif;
+}
+
+li {
+    font-family: "Arial",sans-serif;
+    line-height: 200%;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}
