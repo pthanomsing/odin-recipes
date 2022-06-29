@@ -17,7 +17,8 @@ h2 {
     font-size:40px;
 }
 p,
-ul{
+ul,
+ol{
     font-family: "Arial",sans-serif;
     line-height: 200%;
     text-align: center;
@@ -32,7 +33,7 @@ p {
     font-size: 20px;
 }
 
-ul.ingredients{
+#ingredients{
     font-size: 20px;
     text-align: left;
     display: inline-block;
@@ -64,4 +65,9 @@ a {
     text-align: center;
   }
 
+  #steps {
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+  }
  
